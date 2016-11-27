@@ -1028,7 +1028,7 @@ body.stretched #header.full-header .container {
 	max-width: 100%;
 }
 
-#logo a.standard-logo { display: block; }
+#logo a.standard-logo { display: block; font-size: 1.20em}
 
 #logo a.retina-logo { display: none; }
 
