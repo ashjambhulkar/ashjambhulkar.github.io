@@ -2,10 +2,10 @@
 /*------------------------------------------------------------------
 
  *
- * Author      : Khorshed Alam (thekhorshed)
- * Project     : KA Starter
+ * Author      : Ashish Jambhulkar
+ * Project     : Resume / CV
  * Version     : 1.0.0
- * Description : Just a simple starter template to jump start your development.
+ * Description : Used to design Resume / CV
  * Primary use : Starter Template
  * Last update : YYYY/MM/DD
  *
@@ -38,14 +38,9 @@
 /*!
  * Bootstrap v3.3.6 (http://getbootstrap.com)
  * Copyright 2011-2015 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * Licensed under MIT (https://github.com/ashjambhulkar)
  */
-/* Rex Style Colors
-===============================*/
-/* Rex Style
-===============================*/
-/*	End
-=============================== */
+
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic);
 html {
