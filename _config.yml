@@ -3,11 +3,11 @@
 # Site wide configuration
 ####################################
 #
-title: Ashish Jambhulkar
-email:  asj409@nyu.edu
-description: A software developer
+title: Leonids
+email:
+description: A simple and awesome blog theme powered by jekyll.
 url: # the base hostname & protocol for your site
-keywords: ["ashish", "jambhulkar", "software-engineer", "engineer"]
+keywords: ["blog", "jekyll"]
 
 #
 ###################################
@@ -33,11 +33,11 @@ kramdown:
 ####################################
 #
 owner:
-  name: Ashish Jambhulkar
+  name: Leonids
   avatar: leonids-logo.png
-  job: "Software Developer Engineer"
-  bio: "A software engineer"
-  email: asj409@nyu.edu
+  job: "A jekyll theme"
+  bio: "A simple and awesome blog theme powered by jekyll."
+  email:
   disqus-shortname:
   twitter: #username
   facebook: #username
