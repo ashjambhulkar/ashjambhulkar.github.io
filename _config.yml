@@ -33,11 +33,11 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Ashish Jambhulkar
   avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
-  email:
+  job: "Software Developer Engineer"
+  bio: "A software engineer"
+  email: asj409@nyu.edu
   disqus-shortname:
   twitter: #username
   facebook: #username
