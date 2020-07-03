@@ -3,11 +3,11 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
-description: A simple and awesome blog theme powered by jekyll.
+title: Ashish Jambhulkar
+email:  asj409@nyu.edu
+description: A software developer
 url: # the base hostname & protocol for your site
-keywords: ["blog", "jekyll"]
+keywords: ["ashish", "jambhulkar", "software-engineer", "engineer"]
 
 #
 ###################################
